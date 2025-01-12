@@ -18,11 +18,12 @@ body {
 #clock {
     font-size: 30px;
     color: rgb(231, 226, 222);
-    margin: 2px;
+    margin: 0px;
     text-align: right;
     position: fixed;
     padding: 15px;
     right: 3px;
+    top: 1px;
 }
 
 #weather {
